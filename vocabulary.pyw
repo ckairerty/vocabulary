@@ -3,11 +3,6 @@
 # You may not sell, redistribute commercially, or claim this work as your own without my permission.
 # Creator: Nguyen Tuan Kiet
 # This is a source code
-# Vietnamese: 
-# Bạn có thể sử dụng, nghiên cứu và chỉnh sửa phần mềm này cho mục đích cá nhân hoặc giáo dục.
-# Bạn không được bán, phân phối thương mại hoặc tuyên bố tác phẩm này là của riêng bạn mà không có sự cho phép của tôi.
-# Tác giả: Nguyễn Tuấn Kiệt
-# Đây là mã nguồn
 
 name_sha512_hash = "2e202dae8d3daa37d6036dc4066ec3dfbfde03519763f621bf4661e6b38687f6344d680d72e52c5566264188f76e19bc719cc8c5ffdb836f088c94ff49d20bb1"
 
